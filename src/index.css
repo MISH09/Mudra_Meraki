@@ -1,0 +1,17 @@
+@import "tailwindcss";
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: #FFF1C9;
+}
+
+h1,h2,h3{
+  font-family: 'Cormorant Garamond', serif;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+*{
+  box-sizing: border-box;
+}
